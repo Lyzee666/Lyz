@@ -10,7 +10,7 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 
 ### Discord
-![Discord](https://discord.c99.nl/widget/theme-2/947734870271074324.png)
+![Discord](https://discord.c99.nl/widget/theme-3/947734870271074324.png)
 
 ### Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lyzee666&count_private=true&sow_icons=true&theme=radical)
